@@ -72,3 +72,8 @@ class Lista:
             else: 
                 print(valor, "não encontrado na lista")
             self.imprimir()
+
+
+            #  $ Construa uma lista encadeada de pessoas, em que cada nó possui nome e idade, A inserção deve ser por ordem decresnte de idade.
+
+#
